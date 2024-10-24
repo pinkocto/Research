@@ -1,3 +1,17 @@
+
+
+`-` ***Data Description***
+
+|Dataset|Description|
+|:-----:|:----------:|
+|`corp_info_df_20241021.csv`|기업 정보에 대한 데이터 셋|
+|`corp_overview_all_20241021.csv`||
+|`df_sheet7.csv`||
+|`df_sheet9.csv`||
+|`df_sheet_all.csv`||
+|`merged_df`||
+
+
 `-` num_sheets=7
 > [`info`, `Data_bs, Labels_bs`, `Data_cis`, `Labels_cis`, `Data_cf`, `Labels_cf`]
 
